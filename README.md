@@ -19,7 +19,7 @@ O SocialConnect é uma plataforma web desenvolvida com o objetivo de conectar pe
 * João Pedro de Matos Gomes - RM569934
 * Davi de Souza Bezerra Pereira - RM572337
 * Gabriel Palmieri - RM570508
-* Vitor de Castro Buzato - RM XXXXXX
+* Vitor de Castro Buzato - RM 569720
 
 ---
 
